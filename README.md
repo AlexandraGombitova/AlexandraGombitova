@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Alexandra Gombitová
+# Hi there! 👋 I'm Alexandra Gombitova
 
 **Incoming IT Student at Edinburgh Napier University | Former Pro Tennis Player | Web & Python Developer** 
 
