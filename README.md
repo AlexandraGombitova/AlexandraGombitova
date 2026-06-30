@@ -35,7 +35,7 @@ I am an IT Consultant and an incoming student at **Edinburgh Napier University**
   <img src="https://img.shields.io/badge/Cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
 </p>
 
----
+
 
 
 ---
