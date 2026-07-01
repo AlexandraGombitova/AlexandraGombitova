@@ -9,7 +9,7 @@ I am an IT Consultant and an incoming student at **Edinburgh Napier University**
 ### 👩‍💻 What I do & What I'm working on
 - 🎓 **Education:** Thrilled to be starting my studies at Edinburgh Napier University in September!
 - 🌐 **Web Development:** I designed and developed the corporate website [www.egovan.sk](https://www.egovan.sk) completely from scratch.
-- 🛡️ **IT & Cybersecurity:** As part of my professional experience, I participate in cybersecurity audits and manage company hardware and software.
+- 🛡️ **IT & Cybersecurity:** As part of my professional experience, I participate in cybersecurity audits.
 - 🌱 **Currently learning:** Connecting backend architectures (Python/FastAPI) with dynamic frontends (JavaScript) and database management (SQL).
 - 📫 **How to reach me:** [alexandra.gombitova@gmail.com](mailto:alexandra.gombitova@gmail.com)
 
