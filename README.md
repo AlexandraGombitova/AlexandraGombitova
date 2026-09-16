@@ -1,14 +1,14 @@
 # Hi there! 👋 I'm Alexandra Gombitova
 
-**Incoming IT Student at Edinburgh Napier University | Former Pro Tennis Player | Web & Python Developer** 
+**IT Student at Edinburgh Napier University | Former Pro Tennis Player | Web & Python Developer** 
 
 💻 *"I believe that the discipline and perseverance learned in sports translate perfectly into writing great, secure code."*
 
-I am an IT Consultant and an incoming student at **Edinburgh Napier University** (starting this September). My background as a professional tennis player has taught me how to handle high-stress situations, make difficult decisions, and be highly independent—skills I now apply to solving tech challenges. Currently, I focus on web development, Python backend, and I am also passionate about networking and cybersecurity.
+I am an IT Consultant and an  student at **Edinburgh Napier University** . My background as a professional tennis player has taught me how to handle high-stress situations, make difficult decisions, and be highly independent—skills I now apply to solving tech challenges. Currently, I focus on web development, Python backend, and I am also passionate about networking and cybersecurity.
 
 ### 👩‍💻 What I do & What I'm working on
 - 🎓 **Education:** Thrilled to be starting my studies at Edinburgh Napier University in September!
-- 🌐 **Web Development:** I designed and developed the corporate website [www.egovan.sk](https://www.egovan.sk) completely from scratch.
+- 🌐 **Web Development:** I designed and developed the corporate website [www.egovan.sk](https://www.egovan.sk).
 - 🛡️ **IT & Cybersecurity:** As part of my professional experience, I participate in cybersecurity audits.
 - 🌱 **Currently learning:** Connecting backend architectures (Python/FastAPI) with dynamic frontends (JavaScript) and database management (SQL).
 - 📫 **How to reach me:** [alexandra.gombitova@gmail.com](mailto:alexandra.gombitova@gmail.com)
