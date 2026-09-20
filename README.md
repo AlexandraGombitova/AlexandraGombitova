@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Alexandra Gombitova
 
-**IT Student at Edinburgh Napier University | Former Pro Tennis Player | Web & Python Developer** 
+**IT Student at Edinburgh Napier University | Former Pro Tennis Player** 
 
 💻 *"I believe that the discipline and perseverance learned in sports translate perfectly into writing great, secure code."*
 
